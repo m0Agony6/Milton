@@ -1,0 +1,34 @@
+项目名称建议：deep-agri-origin
+项目类型：Vite + React 静态前端
+GitHub 仓库分支：main
+Cloudflare Pages 连接方式：Connect to Git
+Git 提供商：GitHub
+Framework preset：Vite
+Build command：npm run build
+Build output directory：dist
+Root directory：/
+Node.js 版本：22
+环境变量：当前版本无需额外环境变量
+是否支持自定义域名：支持
+是否支持自动部署：支持，后续推送到 main 分支会自动重新发布
+
+建议上传到 GitHub 的文件：
+src/
+public/
+index.html
+package.json
+package-lock.json
+vite.config.ts
+tsconfig.json
+.gitignore
+.node-version
+README.md
+Cloudflare-Pages-部署说明.md
+Cloudflare-Pages-参数清单.txt
+
+不需要上传到 GitHub 的内容：
+node_modules/
+dist/
+vite-preview.err.log
+vite-preview.out.log
+公网链接.txt

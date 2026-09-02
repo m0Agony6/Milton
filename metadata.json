@@ -1,0 +1,6 @@
+{
+  "name": "“气谱双擎”传统调味品数字化风味检测展示页",
+  "description": "基于深度学习的电子鼻高光谱多模态融合传统调味品风味数字化检测技术展示页。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
